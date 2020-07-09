@@ -6,8 +6,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/Stor-Nat/homework3-1.2/issues/1
-
+https://github.com/Stor-Nat/homework3-1.1-2/issues/1
 
 Описание процесса тестирования
 
